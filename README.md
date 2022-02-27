@@ -14,5 +14,4 @@ i faced many challenges along the way but i managed to work them out
 ## Technologies Used
 {I used HTML to link up my links and they did run very smoothly,,Used also CSS in styling}
 ## Support and contact details
-{You can reach me out if you have any concerns about my project through my email @cerraangie113@gmail.com or call me via 0768921803}
-  
+{You can reach me out if you have any concerns about my project through my email @cerraangie113@gmail.com or call me via 0768921803
